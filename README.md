@@ -1,2 +1,2 @@
-# konczolmiklos.github.io
-Ez a readme.
+# Welcome!
+Here you can find out about my teaching, research, and other activities.
