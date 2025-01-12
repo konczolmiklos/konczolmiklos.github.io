@@ -6,6 +6,6 @@ I am an associate professor at [Pázmány Péter Catholic University, Faculty of
 
 I serve as editor of the journals [_Hungarian Journal of Legal Studies_](https://akjournals.com/view/journals/2052/2052-overview.xml) and [_Public Governance, Administration and Finances Law Review_](https://folyoirat.ludovika.hu/index.php/pgaf).
 
-Here you can find out about my [teaching,](publish/TEACHING.md) research, and other activities.
+Here you can find out about my [teaching,](TEACHING.md) research, and other activities.
 
 # CV
